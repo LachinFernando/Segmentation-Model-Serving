@@ -1,5 +1,5 @@
 # Segmentation-Model-Serving
-### Repo for serving the segmentation model
+Repo for serving the segmentation model
 
 ### How to start the server?
 - Clone the repository. (git clone <repo_name>)
