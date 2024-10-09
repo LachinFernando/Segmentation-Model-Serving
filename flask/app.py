@@ -9,9 +9,10 @@ from Utils import image_utils as iutils
 from Utils import model_utils as mutils
 
 
+# constants
 IMAGE_SAVE_NAME = "output.png"
 
-
+# setup flask app
 app = Flask(__name__)
 
 # Configure logging
