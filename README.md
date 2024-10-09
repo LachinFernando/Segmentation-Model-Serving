@@ -2,7 +2,7 @@
 ### Repo for serving the segmentation model
 
 ### How to start the server?
-- Clone the repository. (git clone <repo_name>)
+###- Clone the repository. (git clone <repo_name>)
 - Create a folder called **Models** inside the flask folder and move the model inside that folder.
 - Rename the model as **Unet.h5** 
 - Open the command terminal, move to the folder where you have app.py(flask/app.py) and set the environment variable
